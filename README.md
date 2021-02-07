@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here's my [portfolio](https://maphaiyarath.github.io/), in case you were interested...
+in case you were interested, here's my [portfolio](https://maphaiyarath.github.io/) 👀
 <!--
 **maphaiyarath/maphaiyarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
